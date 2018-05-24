@@ -15,3 +15,5 @@
      public static $caract = 'SET CHARACTER SET utf8';
  }
 //commentario en proyecto probando git..
+
+//c1
