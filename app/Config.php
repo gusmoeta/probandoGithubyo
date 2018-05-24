@@ -1,5 +1,10 @@
  <?php
-
+//jlasjlkfldflkdkjfkldjflkjdkfjslkdfsjdlkfjlskdjfklsdjkls
+//jlasjlkfldflkdkjfkldjflkjdkfjslkdfsjdlkfjlskdjfklsdjkls
+//jlasjlkfldflkdkjfkldjflkjdkfjslkdfsjdlkfjlskdjfklsdjkls
+//jlasjlkfldflkdkjfkldjflkjdkfjslkdfsjdlkfjlskdjfklsdjkls
+//jlasjlkfldflkdkjfkldjflkjdkfjslkdfsjdlkfjlskdjfklsdjkls
+//jlasjlkfldflkdkjfkldjflkjdkfjslkdfsjdlkfjlskdjfklsdjkls
  class Config
  {
      static public $mvc_bd_hostname = "mysql:host=localhost; dbname=proyecto"; 
