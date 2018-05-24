@@ -14,3 +14,5 @@
      static public $mvc_vis_css     = "estilo.css";
      public static $caract = 'SET CHARACTER SET utf8';
  }
+
+ //comentario en github pull de proyecto
